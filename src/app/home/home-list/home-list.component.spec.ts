@@ -3,7 +3,7 @@ import { HttpClientTestingModule } from '@angular/common/http/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { SnotifyService, ToastDefaults } from 'ng-snotify';
 
-import { MenuListComponent } from './menu-list.component';
+import { MenuListComponent } from './home-list.component';
 import { SharedModule } from '../../shared/shared.module';
 
 describe('MenuListComponent', () => {
